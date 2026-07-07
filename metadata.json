@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS Trading Intelligence",
+  "description": "An elite AI-powered news analysis engine featuring back-and-forth macroeconomic panel debates and high-impact probability forecasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
